@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+venv
+db.sqlite3
+.DS_Store
+.idea
+settings.py
+media/
+static/admin/
+deploy.py
+*.exe
+.vscode
